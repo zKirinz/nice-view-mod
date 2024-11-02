@@ -23,14 +23,14 @@ LOG_MODULE_DECLARE(zmk, CONFIG_ZMK_LOG_LEVEL);
 
 #include "peripheral_status.h"
 
-LV_IMG_DECLARE(gojo_domain);
+LV_IMG_DECLARE(gojo_satoru);
 LV_IMG_DECLARE(uchiha_itachi);
 LV_IMG_DECLARE(eren_yeager);
 LV_IMG_DECLARE(vegeta);
 LV_IMG_DECLARE(monkey_d_luffy);
 
 const lv_img_dsc_t *anim_imgs[] = {
-    &gojo_domain,
+    &gojo_satoru,
     &uchiha_itachi,
     &eren_yeager,
     &vegeta,
